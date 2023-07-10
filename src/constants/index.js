@@ -1,4 +1,4 @@
-import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, docker, meta, starbucks, tesla, shopify, carrent, jobit, tripguide, threejs } from "../assets";
+import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, tailwind, nodejs, git, figma, starbucks, tesla, jobit, tripguide } from "../assets";
 
 export const navLinks = [
   {
@@ -77,7 +77,7 @@ const experiences = [
   {
     title: "Frond-end Developer",
     company_name: "Freelancer",
-    icon: starbucks,
+    icon: freelacer,
     iconBg: "#383E56",
     date: "May 2022 - August 2022",
     points: [
@@ -90,7 +90,7 @@ const experiences = [
   {
     title: "UI/UX Design",
     company_name: "Up Work",
-    icon: tesla,
+    icon: freelacer,
     iconBg: "#E6DEDD",
     date: "May 2022 - August 2022",
     points: [
