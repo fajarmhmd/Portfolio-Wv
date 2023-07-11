@@ -1,4 +1,6 @@
-import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, tailwind, nodejs, git, figma, starbucks, tesla, jobit, tripguide } from "../assets";
+import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, docker, meta, starbucks, tesla, shopify, furniture, jobit, tripguide, hoobank, freelance, } from "../assets";
+
+
 
 export const navLinks = [
   {
@@ -77,27 +79,27 @@ const experiences = [
   {
     title: "Frond-end Developer",
     company_name: "Freelancer",
-    icon: freelacer,
+    icon: freelance,
     iconBg: "#383E56",
     date: "May 2022 - August 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Expertise in React.js and related technologies for web application development.",
+      "Collaborative team player, working with designers, product managers, and developers to deliver high-quality products.",
+      "Skilled in implementing responsive design and ensuring compatibility across different browsers.",
+      "Actively engaged in code reviews, providing valuable feedback to fellow developers.",
     ],
   },
   {
     title: "UI/UX Design",
-    company_name: "Up Work",
-    icon: freelacer,
+    company_name: "Freelancer",
+    icon: freelance,
     iconBg: "#E6DEDD",
     date: "May 2022 - August 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Skilled in developing captivating and user-focused interfaces using cutting-edge web technologies.",
+      "Collaborative team player, actively working with designers, product managers, and other developers to deliver exceptional UI/UX experiences.",
+      "Proficient in implementing responsive design principles to ensure seamless cross-platform compatibility.",
+      "Actively involved in code reviews, providing valuable feedback to enhance the visual appeal and usability of web applications.",
     ],
   },
 ];
@@ -140,7 +142,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: hoobank,
     source_code_link: "https://github.com/",
   },
   {
@@ -152,7 +154,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
+    image: furniture,
     source_code_link: "https://www.figma.com/",
   },
   {
