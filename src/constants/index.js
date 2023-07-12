@@ -1,4 +1,4 @@
-import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, docker, meta, starbucks, tesla, shopify, furniture, jobit, tripguide, hoobank, freelance, } from "../assets";
+import { mobile, backend, creator, web, javascript, typescript, html, css, reactjs, redux, tailwind, nodejs, mongodb, git, figma, docker, meta, starbucks, tesla, shopify, furniture, jobit, tripguide, hoobank, freelance, one, two, tre, carrent, } from "../assets";
 
 
 
@@ -27,7 +27,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Editor",
     icon: backend,
   },
   {
@@ -106,31 +106,31 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial: "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    testimonial: "Fajar proved me wrong by creating a stunning website that is as beautiful as our product.",
+    name: "Ms Mulya",
+    designation: "Leader",
+    company: "Mj Furniture",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
-    testimonial: "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+    testimonial: "I've never met a web developer who truly cares about their clients' success like Fajar does.",
+    name: "Aldy Pratama",
+    designation: "CTO",
+    company: "HooBank",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
-    testimonial: "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+    testimonial: "Fajar's optimizations boosted our website visits significantly. We're extremely grateful for their help!",
+    name: "Angelina Fatra",
     designation: "CTO",
-    company: "456 Enterprises",
+    company: "Movies",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Wv HooBank",
+    name: "Wv Jobit",
     description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
@@ -142,23 +142,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: hoobank,
+    image: jobit,
     source_code_link: "https://github.com/",
   },
   {
-    name: "UI Shoppe",
-    description: "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: furniture,
-    source_code_link: "https://www.figma.com/",
-  },
-  {
-    name: "Wv Movie",
+    name: "Wv Morent",
     description: "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
@@ -170,7 +158,23 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: carrent,
+    source_code_link: "https://www.figma.com/",
+  },
+  {
+    name: "Wv Movie",
+    description: "A modern web app for discovering and exploring movies. With an attractive and responsive interface, it offers an enjoyable film browsing experience.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: one,
     source_code_link: "https://github.com/",
   },
 ];

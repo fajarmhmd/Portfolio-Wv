@@ -27,6 +27,9 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import one from "./one.png"
+import two from "./two.png"
+import tre from "./tre.png"
 import furniture from "./furniture.png"
 import hoobank from "./hoobank.png"
 import carrent from "./carrent.png";
@@ -65,4 +68,7 @@ export {
   hoobank,
   furniture,
   freelance,
+  one,
+  two,
+  tre,
 };
